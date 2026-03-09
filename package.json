@@ -1,7 +1,0 @@
-{
-  "name": "ai-skill",
-  "version": "1.0.0",
-  "bin": {
-    "ai-skill": "./cli/ai-skill.js"
-  }
-}

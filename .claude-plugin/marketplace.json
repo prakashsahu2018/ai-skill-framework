@@ -1,0 +1,21 @@
+{
+  "name": "ai-skill-framework",
+  "owner": {
+    "name": "Prakash Sahu"
+  },
+  "metadata": {
+    "description": "Reusable AI skills for development teams",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ai-skill-framework",
+      "description": "Collection of reusable development skills including Java backend patterns, Spring Boot conventions, and more",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/java-backend"
+      ]
+    }
+  ]
+}
